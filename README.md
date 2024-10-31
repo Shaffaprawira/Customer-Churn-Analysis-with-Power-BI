@@ -7,7 +7,6 @@
 4. [Insights Deep Dive](#insights-deep-dive)
 5. [Recommendations](#recommendations)
 6. [Assumptions and Caveats](#assumptions-and-caveats)
-7. [Dashboard Overview](#dashboard-overview)
 
 ---
 
